@@ -55,4 +55,32 @@ const produtos = [
     description: 'Descricão do produto 08',
     value: 80.00
   },
+  {
+    id: 9,
+    image: 'https://picsum.photos/200',
+    title: 'Produto 09',
+    description: 'Descricão do produto 09',
+    value: 90.00
+  },
+  {
+    id: 10,
+    image: 'https://picsum.photos/200',
+    title: 'Produto 10',
+    description: 'Descricão do produto 10',
+    value: 200.00
+  },
+  {
+    id: 11,
+    image: 'https://picsum.photos/200',
+    title: 'Produto 11',
+    description: 'Descricão do produto 11',
+    value: 310.00
+  },
+  {
+    id: 12,
+    image: 'https://picsum.photos/200',
+    title: 'Produto 12',
+    description: 'Descricão do produto 12',
+    value: 410.00
+  }
 ]
